@@ -32,4 +32,5 @@ npm test
 
 # Dashboard Page
 
-![image](https://user-images.githubusercontent.com/25653213/111292614-5c6b6a00-866e-11eb-914f-d4634aceb38c.png)
+![image](https://user-images.githubusercontent.com/25653213/111293794-aacd3880-866f-11eb-9ce7-1c95733d19fa.png)
+
