@@ -9,12 +9,21 @@
           <MenuBar></MenuBar>
         </div>
         <div class="column main--content">
-          <div class="tabs">
-            <ul>
-              <li class="is-active"><a>Recommendations</a></li>
-              <li><a>Overview</a></li>
-            </ul>
+          <div class="row">
+            <div class="col-lg-10">
+              <div class="tabs">
+                <ul>
+                  <li class="is-active"><a>Recommendations</a></li>
+                  <li><a>Overview</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-lg-2 ta-r">
+              <button class="button button-inverse">Add Startup</button>
+            </div>
           </div>
+
           <div id="tab-content">
             <div class="is-active" data-content="1">
               <div class="columns">

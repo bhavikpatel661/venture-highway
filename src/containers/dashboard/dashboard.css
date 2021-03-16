@@ -11,3 +11,8 @@
   background: white;
   margin-top: 10.5px;
 }
+
+.button-inverse {
+  background: #efefef;
+  border: 1px solid black;
+}
