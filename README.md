@@ -26,3 +26,10 @@ npm test
 ```
 
 
+# Login Page
+
+![image](https://user-images.githubusercontent.com/25653213/111292556-4e1d4e00-866e-11eb-994c-b3d8049af5af.png)
+
+# Dashboard Page
+
+![image](https://user-images.githubusercontent.com/25653213/111292614-5c6b6a00-866e-11eb-914f-d4634aceb38c.png)
