@@ -1,0 +1,32 @@
+#login {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+#login .card {
+  width: 20pc;
+  height: 65vh;
+}
+
+#login #signIn {
+  width: 100%;
+}
+
+#login .login--header img {
+  margin-bottom: 20px;
+  margin-top: 10px
+}
+
+#login .login--header h2 {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+
+#login #signIn a{
+  color: white !important;
+}

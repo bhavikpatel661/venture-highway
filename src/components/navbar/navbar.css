@@ -1,0 +1,36 @@
+.navbar-item span {
+  padding: 0 10px;
+}
+
+.navbar-item span i {
+  font-size: 16px;
+}
+
+.navbar-end--control {
+  margin-right: 2%;
+}
+
+.navbar-item #search {
+  box-shadow: none;
+  border: none;
+  width: 20vw;
+}
+
+.navbar-item #search:active {
+  border-color: none;
+  ;
+  box-shadow: none;
+}
+
+.navbar {
+  height: 10vh;
+}
+
+.fa-search {
+  font-size: 16px !important;
+  color: #d0cfcf;
+}
+
+.navbar-item, a.navbar-item:hover {
+  background-color: white;
+}

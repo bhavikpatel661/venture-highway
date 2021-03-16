@@ -1,0 +1,43 @@
+.dot {
+  height: 4px;
+  width: 4px;
+  background-color: #514f4f;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.chief {
+  display: flex;
+  float: right;
+}
+
+.chief--contact {
+  margin-right: 1pc !important;
+}
+
+.text--subtitle {
+  color: #bbbbbb !important;
+}
+
+.chief--contact--title {
+  font-size: 10px;
+  color: #bbbbbb;
+}
+
+.media-content .title--control {
+  letter-spacing: -4px;
+}
+
+.icon-external-link {
+  font-size: 14px !important;
+  color: blue;
+  padding-top: 4px !important;
+}
+
+.rating span {
+  font-size: 17px;
+}
+
+.rating {
+  letter-spacing: -2px;
+}

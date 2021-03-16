@@ -1,0 +1,11 @@
+#analytics ul {
+  display: flex;
+}
+
+#analytics {
+  white-space: nowrap;
+}
+
+#analytics ul li {
+  margin-right: 2em;
+}

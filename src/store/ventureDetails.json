@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BusinessOnBot",
+    "founded": 2019,
+    "location": "Banglore",
+    "budget": "UnFunded",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris",
+    "rating": 5,
+    "chief": "Assign Chief",
+    "logo": "https://bulma.io/images/placeholders/96x96.png"
+  },
+  {
+    "name": "Crowdware Labs",
+    "founded": 2017,
+    "location": "Banglore",
+    "budget": "$385.1 k",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris",
+    "rating": 5,
+    "chief": "Aakansha Sharma",
+    "logo": "https://bulma.io/images/placeholders/96x96.png"
+  },
+  {
+    "name": "LighSpeedAi Labs",
+    "founded": 2019,
+    "location": "Banglore",
+    "budget": "$391.59 k",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris",
+    "rating": 5,
+    "chief": "Aviral Bhatnagar",
+    "logo": "https://bulma.io/images/placeholders/96x96.png"
+  },
+  {
+    "name": "Charzer",
+    "founded": 2020,
+    "location": "Banglore",
+    "budget": "UnFunded",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Phasellus nec iaculis mauris",
+    "rating": 5,
+    "chief": "Aakansha Sharma",
+    "logo": "https://bulma.io/images/placeholders/96x96.png"
+  }
+]

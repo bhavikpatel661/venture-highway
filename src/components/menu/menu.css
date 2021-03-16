@@ -1,0 +1,9 @@
+#menu {
+  text-align: center;
+  background-color: white;
+}
+
+.menu-list li {
+  margin-top: 2pc ;
+  margin-bottom: 2pc;
+}

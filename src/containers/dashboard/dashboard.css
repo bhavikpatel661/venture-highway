@@ -1,0 +1,13 @@
+#menuContainer {
+  width: 5%;
+  background-color: white;
+}
+
+.main--content {
+  margin: 3% 2% 0% 2%;
+}
+
+#tab-content {
+  background: white;
+  margin-top: 10.5px;
+}

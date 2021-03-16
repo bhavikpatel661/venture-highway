@@ -1,0 +1,14 @@
+.filters {
+  background-color: white;
+}
+
+.filters-items {
+  display: block !important;
+  max-height: 76.2vh;
+  overflow: auto;
+  padding-top: 1.5em !important;
+}
+
+.filters .select, .filters select, .filters #signIn {
+  width: -webkit-fill-available;
+}
